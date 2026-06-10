@@ -89,7 +89,7 @@ AI Engineer | NLP | Generative AI | MLOps
 * Email: [ai.engineer360@gmail.com](mailto:ai.engineer360@gmail.com)
 * GitHub: https://github.com/Aiengineer360
 * LinkedIn: https://www.linkedin.com/in/arooj-fatima-04026b255
-* Portfolio: https://aroojportfolio.web.app
+* Portfolio: h[ttps://aroojportfolio.web.app](https://aiengineer360.github.io/arooj-fatima.portfolio.io/)
 
 ---
 
