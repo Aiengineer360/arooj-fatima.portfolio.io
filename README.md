@@ -15,6 +15,8 @@ This portfolio represents the professional profile of **Arooj Fatima**, an AI En
 
 The website features a cyberpunk-inspired design with interactive animations, neural-network visualizations, custom cursor effects, animated counters, timeline-based experience sections, and responsive layouts.
 
+<img width="3807" height="1905" alt="image" src="https://github.com/user-attachments/assets/a3cbaa83-5185-4202-b449-2b3fbee2eb14" />
+
 ---
 
 ## ✨ Features
